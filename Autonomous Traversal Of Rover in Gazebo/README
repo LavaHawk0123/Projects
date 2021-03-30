@@ -1,4 +1,4 @@
-<h1>Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another</h1>
+#Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another
 Simulation Software: Gazebo
 Framework : ROS
 Dependancies used:
