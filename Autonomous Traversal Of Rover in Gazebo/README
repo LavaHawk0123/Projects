@@ -1,3 +1,5 @@
+##Created by: Aditya Arun Iyer
+##
 Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another
 Simulation Software: Gazebo
 Framework : ROS
@@ -8,3 +10,4 @@ Dependancies used:
 4)time
 5)rospy
 Link for Video: https://youtu.be/CU5QW2QeSas
+![Autonomous Traversal Worked](https://user-images.githubusercontent.com/75236655/112982607-4be0e680-917a-11eb-8437-5407ee2bc6c4.png)
