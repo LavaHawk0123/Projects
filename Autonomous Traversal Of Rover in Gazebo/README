@@ -1,1 +1,10 @@
-
+<h1>Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another</h1>
+Simulation Software: Gazebo
+Framework : ROS
+Dependancies used:
+1)pyproj
+2)math
+3)Numpy
+4)time
+5)rospy
+Link for Video: https://youtu.be/CU5QW2QeSas
