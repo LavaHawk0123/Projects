@@ -1,7 +1,7 @@
-##Created by: Aditya Arun Iyer
-##Last Modified: 28/03/2021
+# Projects Aditya Arun Iyer
+# Last Modified: 28/03/2021
 
-Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another
+# Task: Implementation of the autonmous traversal of the 4 wheel bot from one GPS Coordinate to another
 Simulation Software: Gazebo
 Framework : ROS
 Dependancies used:
