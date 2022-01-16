@@ -28,9 +28,30 @@ Extreme Algorithm Test : https://youtu.be/oQ7MTeyXL9Y
 <h2> Testing Environment Screenshot: </h2>
 
 <img src="https://github.com/MRM-AI-TP-2022/Aditya-Arun-Iyer-MRM/blob/a7070f3d27a5416163236ecb25a2efb87e0d5830/Images/Map.png">
+<br>
+<h1>2) Implementing Inverse Kinematics on the UR5 using MoveIt framework</h1>
+
+Simulation Software: Gazebo
+Framework: ROS
+Dependencies used:
+<ol><li>MoveIt
+<li>math
+<li>Numpy
+<li>time
+<li>rospy</ol>
+
+Sensors used:
+1) Stereocamera 
+2) Imu
+3) UR5 Robotic Arm
+
+<h3> Simulation output</h3>
+<img src="https://github.com/LavaHawk0123/Projects/blob/main/UR5_Inverse_Kinematics_Package/ur5_sim.gif">
+
+<h3> Video for testbench - https://youtu.be/IWIqN_8i9kc </h3>
 
 <h1>
-2) Online Certificate Courses:</h1>
+3) Online Certificate Courses:</h1>
 Courses Completed: 
 <ol><li> DeepLearning AI Specialisation on Machine Learning and CNN's using Python
 <li> Python specialisation by Google
@@ -40,7 +61,7 @@ Courses Completed:
 <li> The evolving Universe and Science of the Universe by Caltech
 <li> Contributed to IBM's Developer Skill's network</ol>
 <h1>
-3) Mathematical implimentation of Python:</h1>
+4) Mathematical implimentation of Python:</h1>
 <h2> Estimating roots of an equation using false postion method</h2>
 
 ```
@@ -64,7 +85,7 @@ cd Mathematics_python
 python Elementary_transform.py
 ```
 <h1>
-4) ROS Simulations(Gazebo) and network applications</h1>
+5) ROS Simulations(Gazebo) and network applications</h1>
 <h2> Streaming Euler,Quartonian angles, Gyroscope and Magnetometer values</h2>
 After installing ROS and configuring your work environement from: http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
@@ -85,7 +106,7 @@ rosrun IMU_plugin_ROS server_imu.py
 rosrun IMU_plugin_ROS client_imu.py
 ```
 
-<h1>5)Machine Learning : Linear and Logistic regression</h1>
+<h1>6)Machine Learning : Linear and Logistic regression</h1>
 <ol>
 <li><h2> Linear Regression : Finding the estimated cost of houses</h2>
 <li><h2> Logistic Regression : Estimating the probability of a passenger chosen died</h2>
