@@ -17,3 +17,4 @@ Sensors used:
 <h3> Simulation output</h3>
 <img src="https://github.com/LavaHawk0123/Projects/blob/main/UR5_Inverse_Kinematics_Package/ur5_sim.gif">
 
+<h3> Video for testbench - https://youtu.be/IWIqN_8i9kc </h3>
