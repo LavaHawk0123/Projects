@@ -15,5 +15,5 @@ Sensors used:
 3) UR5 Robotic Arm
 
 <h3> Simulation output</h3>
-![ur5_sim](https://user-images.githubusercontent.com/75236655/149670155-d5ae7ed5-358c-4936-a5d1-c71e9e2e1c76.gif)
+<img src="https://github.com/LavaHawk0123/Projects/blob/main/UR5_Inverse_Kinematics_Package/ur5_sim.gif">
 
