@@ -1,7 +1,7 @@
 # Projects by Aditya Arun Iyer
 
 <h2>1) Autonomous Traversal of a 4 wheel bot:</h2>
-<h2>Task: Implementation of the autonomous traversal of the 4 wheel bot from one GPS Coordinate to another implementing obstacle avoidance.</h2>
+<h2>Task: Implementation of the autonomous traversal of the 4 wheel bot from one GPS Coordinate to another using a PID controller and Differential Drive system implementing obstacle avoidance.</h2>
 Simulation Software: Gazebo
 Framework: ROS & Python API
 Dependencies used:
