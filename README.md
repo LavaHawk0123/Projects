@@ -1,6 +1,7 @@
 # Projects by Aditya Arun Iyer
+<h4><b> Note : </b> Click on the hyperlinks to view source code, videos and notebooks</h4>
 
-<a href = "https://github.com/LavaHawk0123/Projects/tree/main/Obstacle%20Avoidence%20in%20a%204%20wheeled%20bot"><h2>1) Autonomous Traversal of a 4 wheel bot using PID:</h2></a>
+<h2>1) <a href ="https://github.com/LavaHawk0123/Projects/tree/main/Obstacle%20Avoidence%20in%20a%204%20wheeled%20bot">Autonomous Traversal of a 4 wheel bot using PID:   </a></h2>
 <h2>Task: Implementation of the autonomous traversal of the 4 wheel bot from one GPS Coordinate to another using a PID controller and Differential Drive system implementing obstacle avoidance.</h2>
 Simulation Software: Gazebo
 Framework: ROS & Python API
